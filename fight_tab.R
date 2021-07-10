@@ -137,7 +137,7 @@ event_tab <- function(event_num, weight_class, fighter_1, fighter_2, fighter_1_o
 
 # Example
 event_tab(261,"Welterweight","Masvidal, Jorge","Usman, Kamaru",+320,-435)
-ZSSSS
+
 # UFC 264 
 mcgregor_poirier <- event_tab(264,"Lightweight","McGregor, Conor","Poirier, Dustin",+105,-134)
 gtsave(mcgregor_poirier,"mcgregor_poirier.png",path = "Graphics")
