@@ -145,3 +145,4 @@ gtsave(mcgregor_poirier,"mcgregor_poirier.png",path = "Graphics")
 burns_thompson <- event_tab(264,"Welterweight","Burns, Gilbert","Thompson, Stephen",+130,-162)
 gtsave(burns_thompson,"burns_thompson.png",path = "Graphics")
 
+makhachev_moises <- event_tab("Fight Night","Lightweight","Makhachev, Islam","Moises, Thiago",+500,-720)
